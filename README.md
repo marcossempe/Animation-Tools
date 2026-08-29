@@ -8,7 +8,7 @@ Para el funcionamiento de la misma se requiere tener instalado, en el programa R
 
 # Instalación
 Su instalación requiere pocos pasos:
-1- Dentro de "Actions" seleccionar "Show action list..."
+1- Dentro de "Actions" seleccionar "Show action list...".
 2- Una vez dentro, seleccionar "New action..." y luego "Load ReaScript...". Se abrira una ventana donde se debe buscar, en donde esté instalado el script, el archivo .lua llamado "AnimationTools".
 3- Una vez instalado, asignarle una tecla para poder invocarlo.
 
