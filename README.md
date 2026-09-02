@@ -13,7 +13,7 @@ Su instalación requiere pocos pasos:
 3- Una vez instalado, asignarle una tecla para poder invocarlo.
 
 # Uso
-Su uso es muy práctico. Solo se deberá abrir el editor midi del track en el cual se quiera usar el script. No hay mucha vuelta.
+Su uso es muy práctico. Solo se deberá abrir el editor midi del track en el cual se quiera usar el script. En cuanto al uso de los Mixes para Drums, se cuenta con varias opciones que se pueden obtener tocando repetidamente un mismo mix en una misma posición donde se lo coloque en el editor midi. Por otro lado, con los "Trainers Sections" tanto del Pro Guitar, Pro Bass y del Real Keys se incrementan sus ultimos valores mediante su uso dentro del editor midi, siendo que si se borra uno, se volverá a colocar el mismo en la siguiente vez que se use esa opción.
 
 # Agradecimiento
 Se agradece de corazón a RaiderGG quien no tuvo problema en dejarme reutilizar su script "EventTools" del cual fue usado y modificado para crear este script diseñado para el lado de las animaciones. De verdad que me encuentro agradecido por su ayuda ☻.
