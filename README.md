@@ -1,7 +1,7 @@
 # TextEventsTools
 "TextEventsTools" es un Script para REAPER con el cual se simplifica la colocación de cualquier tipo de animaciones en cualquier track a la hora de chartear para Rock Band 3.
 
-<img width="323" height="806" alt="Sin título" src="https://github.com/user-attachments/assets/7c04d79c-0470-4622-a64e-c657e04e042c" />
+<img width="365" height="832" alt="image" src="https://github.com/user-attachments/assets/cc4ca169-eca0-45ce-af4b-1ecb6d35c567" />
 
 # Requerimientos
 Para el funcionamiento de la misma se requiere tener instalado, en el programa REAPER, el ReaImGui que se instala via ReaPack.
